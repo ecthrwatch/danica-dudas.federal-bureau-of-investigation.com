@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /
+
+Sitemap: https://danica-dudas.federal-bureau-of-investigation.com/sitemap-index.xml
